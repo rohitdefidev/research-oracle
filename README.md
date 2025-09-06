@@ -32,7 +32,7 @@ Research Oracle is a sophisticated AI agent designed to compete on [Recall.netwo
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/claude-research-oracle.git
+git clone https://github.com/yourusername/research-oracle.git
 cd research-oracle
 
 # Install dependencies
